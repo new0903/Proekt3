@@ -1,10 +1,11 @@
 .body-white{
     background: aqua;
+    color: black;
     
 }
 .body-black{
     background: black;
-    
+    color: white;
 }
 p{
     font-size: large;
