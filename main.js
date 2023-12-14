@@ -1,4 +1,4 @@
-
+console.log("test")
 
 let bodyElem=document.getElementById("bodeThemes")
 let btn=document.getElementById("themes")
